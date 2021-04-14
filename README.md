@@ -9,15 +9,15 @@
 
 ## Languages and Tools:
 
-![](https://img.shields.io/badge/Code-PHP-informational?style=for-the-badge&logo=php&color=777bb4&logoColor=8892BF)
-![](https://img.shields.io/badge/Code-Laravel-informational?style=for-the-badge&logo=laravel&color=FF2D20)
-![](https://img.shields.io/badge/Code-codeigniter-informational?style=for-the-badge&logo=codeigniter&color=EF4223)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&color=F7DF1E)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&color=2496ED)
-![](https://img.shields.io/badge/Tools-MySQL-informational?style=for-the-badge&logo=mysql&color=4479A1)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=for-the-badge&logoColor=4479A1&logo=postgresql&color=336791)
-![](https://img.shields.io/badge/Tools-SQLServer-informational?style=for-the-badge&logo=microsoft-sql-server&color=CC2927&logoColor=e94840)
-![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&color=fcc624)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat-square&logo=php&color=777bb4&logoColor=8892BF)
+![](https://img.shields.io/badge/Code-Laravel-informational?style=flat-square&logo=laravel&color=FF2D20)
+![](https://img.shields.io/badge/Code-codeigniter-informational?style=flat-square&logo=codeigniter&color=EF4223)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&color=F7DF1E)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat-square&logo=docker&color=2496ED)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat-square&logo=mysql&color=4479A1&logoColor=2496ED)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat-square&logo=postgresql&color=336791&logoColor=2496ED)
+![](https://img.shields.io/badge/Tools-SQLServer-informational?style=flat-square&logo=microsoft-sql-server&color=CC2927&logoColor=e94840)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&color=fcc624)
 
 ----
 
