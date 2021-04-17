@@ -17,7 +17,5 @@
 ![](https://img.shields.io/badge/Tools-SQLServer-informational?style=flat-square&logo=microsoft-sql-server&color=CC2927&logoColor=e94840)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&color=fcc624)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmparrela&langs_count=8&hide=Visual%20Basic,Dart,html&layout=compact)]
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmparrela&langs_count=8&hide=html,blade,shell&layout=compact&theme=gruvbox)](https://github.com/cmparrela/github-readme-stats)
 
