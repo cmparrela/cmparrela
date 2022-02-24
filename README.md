@@ -1,7 +1,5 @@
 ## Hi 👋, I'm Cristopher Parrela
 
-Software Engineer
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cmparrela/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:cmparrela@gmail.com)
 
@@ -13,7 +11,7 @@ Software Engineer
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&color=F7DF1E)
 
-![](https://img.shields.io/badge/Code-GO-informational?style=flat-square&logo=go&color=79D4FE&logoColor=79D4FE)
+![](https://img.shields.io/badge/Code-Go-informational?style=flat-square&logo=go&color=79D4FE&logoColor=79D4FE)
 
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat-square&logo=docker&color=2496ED)
 ![](https://img.shields.io/badge/Tools-GIT-informational?style=flat-square&logo=git&color=EF3920&logoColor=EF3920)
